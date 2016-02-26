@@ -1,8 +1,8 @@
 #Jekyll Bootstrap
 This template is vanilla Jekyll scafold that incoporates twitter bootstrap SASS port.
 
-#instructions
-Clone down the repo then,
+##instructions
+Clone down the repo then, <br>
 `git archive master | tar -x -C ~/somewhere/else`
 
 ##docs
